@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "FT ",
+      " X "
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:rabbit"
+      },
+      "T": {
+        "item": "minecraft:carrot"
+      },
+      "X": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "mor:carrotbowl"
+    }
+  }

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "FTS",
+      " X "
+    ],
+    "key": {
+      "S": {
+        "item":"minecraft:brown_mushroom"
+      },
+      "F": {
+        "item": "minecraft:carrot"
+      },
+      "T": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "X": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "mor:chicken_soup"
+    }
+  }

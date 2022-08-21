@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "FT ",
+      " X "
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:carrot"
+      },
+      "T": {
+        "item": "minecraft:beef"
+      },
+      "X": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "mor:steak_soup"
+    }
+  }

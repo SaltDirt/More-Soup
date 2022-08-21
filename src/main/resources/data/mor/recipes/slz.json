@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "FT ",
+      " X "
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:nether_wart"
+      },
+      "T": {
+        "item": "minecraft:beetroot"
+      },
+      "X": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "mor:nether_calm"
+    }
+  }

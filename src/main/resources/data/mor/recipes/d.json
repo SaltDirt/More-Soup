@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "TT ",
+      " X "
+    ],
+    "key": {
+      "T": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "X": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "mor:coco"
+    }
+  }

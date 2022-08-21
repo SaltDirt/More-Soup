@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "mor",
+  "version": "${version}",
+  "name": "更多煲汤",
+  "description": "喝汤是美事",
+  "authors": ["SaltDirt","JUNGLE03"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "cr.s.f.cmod.client.CmodClient"
+    ],
+    "main": [
+      "cr.s.f.cmod.Cmod"
+    ]
+  },
+  "mixins": [
+    "Cmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}
